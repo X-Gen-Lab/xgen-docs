@@ -10,13 +10,13 @@ last_reviewed: 2026-06-06
 
 ## Purpose
 
-围绕 BalanceBot 建立控制、传感器融合、运动系统、安全边界、MCU-host-ROS2 集成和整机验证知识。
+围绕 BalanceBot-X 建立控制、传感器融合、运动系统、安全边界、MCU-host-ROS2 集成、平台服务和整机验证知识。
 
 ## Learning Path
 
 1. 机器人系统分层和职责边界。
 2. 电机、编码器、IMU 和基础传感器。
-3. 控制环、PID、安全限制和故障处理。
+3. 控制环、PID、安全限幅和故障处理。
 4. 传感器融合、里程计和状态估计。
 5. MCU、Linux host 和 ROS2 bridge 集成。
 6. 整机 bring-up、测试和现场诊断。
@@ -41,7 +41,7 @@ last_reviewed: 2026-06-06
 
 | Repository | Relationship |
 | --- | --- |
-| `xgen-balancebot` | 机器人主线落地项目。 |
+| `xgen-balancebot` | BalanceBot-X 机器人主线落地项目。 |
 | `xgen-zephyr-platform` | 提供控制板固件平台。 |
 | `xgen-ros2-lab` | 提供 ROS2 集成和仿真能力。 |
 
@@ -52,4 +52,3 @@ last_reviewed: 2026-06-06
 - `sensor-fusion.md`
 - `safety-limits.md`
 - `integration-checklist.md`
-

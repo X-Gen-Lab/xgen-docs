@@ -10,7 +10,7 @@ last_reviewed: 2026-06-06
 
 ## Purpose
 
-Build BalanceBot-centered knowledge for control, sensor fusion, motion systems, safety boundaries, MCU-host-ROS2 integration, and whole-system validation.
+Build BalanceBot-X-centered knowledge for control, sensor fusion, motion systems, safety boundaries, MCU-host-ROS2 integration, platform services, and whole-system validation.
 
 ## Learning Path
 
@@ -41,7 +41,7 @@ Build BalanceBot-centered knowledge for control, sensor fusion, motion systems, 
 
 | Repository | Relationship |
 | --- | --- |
-| `xgen-balancebot` | Main robotics implementation project. |
+| `xgen-balancebot` | Main BalanceBot-X robotics implementation project. |
 | `xgen-zephyr-platform` | Provides the control-board firmware platform. |
 | `xgen-ros2-lab` | Provides ROS2 integration and simulation capability. |
 
@@ -52,4 +52,3 @@ Build BalanceBot-centered knowledge for control, sensor fusion, motion systems, 
 - `sensor-fusion.md`
 - `safety-limits.md`
 - `integration-checklist.md`
-

@@ -18,7 +18,7 @@ last_reviewed: 2026-06-06
 | RTOS 平台 | [rtos/index.md](rtos/index.md) | 建立任务模型、驱动抽象、并发和电源管理能力 |
 | 嵌入式 Linux | [linux/index.md](linux/index.md) | 建立驱动、设备树、系统服务和诊断能力 |
 | ROS2 | [ros2/index.md](ros2/index.md) | 建立机器人中间件、仿真和诊断基础 |
-| 机器人 | [robotics/index.md](robotics/index.md) | 连接控制、传感器融合、系统集成和 BalanceBot |
+| 机器人 | [robotics/index.md](robotics/index.md) | 连接控制、传感器融合、系统集成和 BalanceBot-X |
 | 具身智能 | [ai/index.md](ai/index.md) | 连接视觉、边缘 AI、agent 和评估闭环 |
 
 ## 文档类型
@@ -40,4 +40,3 @@ last_reviewed: 2026-06-06
 ## 术语表
 
 中文术语表见 [glossary.md](glossary.md)。
-
